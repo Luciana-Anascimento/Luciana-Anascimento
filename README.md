@@ -44,7 +44,7 @@ Busco um ambiente que valorize:
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | https://www.linkedin.com/feed/ |
+| **LinkedIn** |  |
 | **E-mail** | lucianna.anascimento@gmail.com |
 
 
